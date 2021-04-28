@@ -136,7 +136,7 @@ function calculate() {
             return subtract();       
         case 'multiply':
             return multiply();
-        case 'divide':Calculator
+        case 'divide':
             return divide();                    
     }
 }
